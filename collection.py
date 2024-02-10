@@ -15,5 +15,7 @@ authors = {"Charles Dickens": "1870",
             "Gerard Manley Hopkins": "1889"}
 
 for authors, Date in authors.items(): 
-    print(authors + " died in " + Date + ".")
+    print(authors + " died in " + Date + ".") #layout of the statements 
 
+#Victor Moreno
+#2/8/24
